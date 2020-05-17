@@ -1,3 +1,6 @@
+--Author: Martmists
+--RETIRE
+--MAP
 --=== UTILS ===--
 
 local function hex_2(num)
